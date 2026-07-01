@@ -1,0 +1,6 @@
+function mostrarMensagem(){
+
+    document.getElementById("mensagem").innerHTML =
+    "A bovinocultura de corte é um dos setores mais importantes do agronegócio brasileiro, contribuindo para a economia, geração de empregos e produção de alimentos.";
+
+}
